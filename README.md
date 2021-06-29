@@ -1,4 +1,4 @@
-## Base project for learning Python
+## Base project for learnin Python
 
 1. Python Libraries for Data Analysis - Numpy and Pandas
 
@@ -38,3 +38,12 @@
 7. Getting Started with Power BI
    - Импорт и преобразование данных с помощью Power BI Desktop
    - Визуализируйте данные и создавайте отчеты с помощью Power BI Desktop
+
+8. Network Data Science with NetworkX and Python
+   - Загрузка графов из файлов электронных таблиц Excel
+   - Визуализируйте графы с опциями и макетами
+   - Обобщите графы с помощью показателей централизации
+   - Генерация случайных графов
+   - Добавление и удаление узлов и ребер из графов
+   - Управление атрибутами узлов и ребер
+   - Создание и визуализация подграфов
