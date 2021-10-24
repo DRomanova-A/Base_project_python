@@ -1,4 +1,4 @@
-## Base project for learnin Python
+## Base project for learning Python
 
 1. Python Libraries for Data Analysis - Numpy and Pandas
 
